@@ -11,6 +11,8 @@ This repository contains the Jupyter Notebook implementation of a data analytics
 ## Notes
 If GitHub does not render the notebook properly,I recommend opening it via nbviewer:
 
+https://nbviewer.org/github/gurbuztuna/solar-energy-forecasting-assignment/blob/main/Fundamentals%20of%20Data%20Analytics%20Assignment%20Tuna%20G%C3%BCrb%C3%BCz.ipynb
+
 ## Author
 
 Ismail Tuna Gürbüz
